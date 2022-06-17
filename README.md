@@ -1,4 +1,4 @@
-#  👋 Hi, I’m Hoang Long (Nathan)
+#  👋 Hi, I’m Long (Nathan)
 
 I am a senior computer science student at Minot State University. I am passionate about programming and software. I am currently looking for a postition where I can enhance my knowledge and apply it into real world problem.   
   
