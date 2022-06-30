@@ -8,7 +8,8 @@ I am currently a tutor/ (lab) teaching assistant at MSU Department of Mathematic
 
 🌱 My current project
 
-I am working on my web portfolio that having a AI chatbot (CSS, React and Python)
+I am working on full stack web app that allows multiple trainers and trainees to contact about their personalized diet and exercise plan
+Tech stack: Python (Django), JavaScript (React)
 
 📫 Interest:
 
