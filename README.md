@@ -6,15 +6,10 @@ I am a senior computer science student at Minot State University. I am passionat
 
 I am currently a tutor/ (lab) teaching assistant at MSU Department of Mathematics and Computer Science. I love helping and sharing my understanding to people.
 
-🌱 My current project
-
-I am working on full stack web app that allows multiple trainers and trainees to contact about their personalized diet and exercise plan
-Tech stack: Python (Django), JavaScript (React)
-
 📫 Interest:
 
 Web/Software Development  
-Machine Learning and AI
+Data Science and Machine Learning
 
 <!---
 longnguyen1112/longnguyen1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
